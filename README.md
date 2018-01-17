@@ -1,2 +1,3 @@
 # scripts
-Help scripts for user account administration
+
+Help scripts for user account administration on RStudio server.
